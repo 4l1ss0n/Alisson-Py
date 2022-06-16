@@ -2,9 +2,9 @@
 
 ### Quem sou eu? / who am I?
 
-Olá, meu nome é Alisson Silva, tenho 19 anos, e atualmente estudo desenvolvimento web, para ser um profissional Full-Stack. faço graduação em ADS no Instituto Federal da Bahia, atualmente no 2º semestre.
+Olá, meu nome é Alisson Silva, tenho 21 anos, e atualmente estudo desenvolvimento web, para ser um profissional Full-Stack. faço graduação em ADS no Instituto Federal da Bahia, atualmente no 3º semestre.
 
-Hi, my name is Alisson Silva, i'm 19, and currently studying web development, to be a Full Stack professional. I'm majoring in ADS in the Federal Institute of Bahia, currently in the 2nd semester
+Hi, my name is Alisson Silva, i'm 21, and currently studying web development, to be a Full Stack professional. I'm majoring in ADS in the Federal Institute of Bahia, currently in the 3nd semester
 ___
 #### Conhecimento iniciais nas tecnologias / initial knowledge in technologies
 
